@@ -1,7 +1,6 @@
 # Zone On The Range
 Tower Defence Game made with GameMaker Studio for my Game Design Class
-
-## Team Tabletop
+## by Team Tabletop
 Matt Gottlieb, Sean Hayes, Jason Lam, Emmett Head and Devon Bovine
 
 ### How to open
