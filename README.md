@@ -1,4 +1,4 @@
-# ZoneOnTheRange
+# Zone On The Range
 Tower Defence Game made with GameMaker Studio for my Game Design Class
 
 ## Team Tabletop
